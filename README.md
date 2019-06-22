@@ -29,7 +29,7 @@ Replace this text with your gif!
 ### Emefa
 Replace this text with your gif!
 ### Keita
-![keita](image/keita_gif.gif)
+![keita](images/keita_gif.gif)
 ### Moussa
 Replace this text with your gif!
 ### Dmitry
